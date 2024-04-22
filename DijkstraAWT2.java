@@ -6,7 +6,7 @@ import java.util.Collections;
 
 public class DijkstraAWT2 extends Frame implements ActionListener {
 
-    private static final int V = 29;
+    private static final int V = 28;
     private TextField sourceField, destinationField, distanceField;
     private TextArea outputArea;
     private Button calculateButton;
